@@ -1,0 +1,62 @@
+database and its interconnection to artificial intelligence, and the associated hardware
+As much as possible topics to be covered
+All
+Machine Learning
+Data preprocessing, topic detection, image tagging, and the full pipeline on how to create and deploy ML models.
+Machine Learning and RPA tools that can help with routine tasks, allowing us to make better and more fact-based decisions
+Cloud AI
+At the AI Summit, I'm keen on exploring the progression of General AI, especially considering how GPT models play a role in this evolution.
+Marketing, Strategy and Sustainability
+I would be interested in R&D on agent behavior systems. Meaning not just generating text or images with generative AI, but using LLMs together with reasoning systems and then producing actions via integrations. Langchain, AutoGPT, MetaGPT, ... .
+As much as possible
+The AI in design programs and apps
+Work automation and upskilling needed for current workers
+Generative AI
+AI in Digital Marketing
+Everything
+Showcases
+Image, video processing
+Ai ethics
+Para já IA em geral, natural language e a sua transformação e modelação, generative AI.
+Funcionamento teórico e treino de algoritmos.
+AI
+*Ethical AI and responsible AI development.
+*Advancements in machine learning and deep learning.
+*AI in healthcare, finance, or other industries.
+*Natural language processing and understanding.
+*AI for robotics and autonomous systems.
+*AI for climate change and sustainability.
+*AI and privacy concerns.
+*AI and cybersecurity.
+Computer vision
+Machine Learning in general.
+IA
+How can AI be used in business?
+GPT-4
+Generative AI, it’s uses and future developments
+AI in games
+AI on laboratory research
+The future of humanity with AI, including employment and It's implication for the future times.
+Using AI in Quality Assurance or as help in coding.
+IA na Administração Pública Local
+Generative AI capabilities in 2023 and 2024
+Ethics & AI
+Data Science and Machine Learning
+Python MySQl with AI methods
+ChatGPT; OpenAI; ML
+Data preparation, Preprocessing techniques, Data augmentation, Topic detection, Image Tagging. Full pipeline to prepare data and create, train and deploy a ML model.
+Aprimorar os conhecimentos em inteligência artificial.
+As much as possible topics to be covered
+Como utilizar a AI da forma mais inteligente, sem criar dependência.
+Ai , predictive analysis
+Applications of Machine Learning
+Learn more, especially in Python and Immediate Engineering (IA) - Chattbot "I'm a UMa.pt student"
+Quero aprofundar um pouco mais os meus conhecimentos sobre AI, como compreender aquilo que ocorre efetivamente em Portugal
+Blockchain, AutoTrading by IA
+Recommender Systems, ethical implications
+AI applied in electrical grids, water managment and cybersecurity
+Ports and logistics
+New applications for AI
+Regulation
+My main objective is to understand the main logics behind artificial intelligence, and the current state of the advance. Natural language and generative AI are topics of particular interest.
+Apllication methods
